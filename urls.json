@@ -1,0 +1,66 @@
+
+{"2023":
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/107-toprunsscorers.js?callback=ontoprunsscorers&_=1689747906077",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/107-mostwickets.js?callback=onmostwickets&_=1689752721213"
+ },
+ "2022":
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/60-toprunsscorers.js?callback=ontoprunsscorers&_=1689756419292",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/60-mostwickets.js?callback=onmostwickets&_=1689756419293"
+ },
+ "2021":
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10013-toprunsscorers.js?callback=ontoprunsscorers&_=1689756727305",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10013-mostwickets.js?callback=onmostwickets&_=1689756727306"
+ },
+ "2020":
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10012-toprunsscorers.js?callback=ontoprunsscorers&_=1689758139372",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10012-mostwickets.js?callback=onmostwickets&_=1689758139373"
+ },
+ "2019":
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10011-toprunsscorers.js?callback=ontoprunsscorers&_=1689758249254",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10011-mostwickets.js?callback=onmostwickets&_=1689758249255"
+ },
+ "2018":
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10010-toprunsscorers.js?callback=ontoprunsscorers&_=1689758437009",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10010-mostwickets.js?callback=onmostwickets&_=1689758437010"
+ },
+ "2017":
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10008-toprunsscorers.js?callback=ontoprunsscorers&_=1689758669891",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10008-mostwickets.js?callback=onmostwickets&_=1689758669892"
+ },
+ "2016":
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10007-toprunsscorers.js?callback=ontoprunsscorers&_=1689758743252",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10007-mostwickets.js?callback=onmostwickets&_=1689758743253"
+ },
+ "2015":
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10007-toprunsscorers.js?callback=ontoprunsscorers&_=1689758813411",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10007-mostwickets.js?callback=onmostwickets&_=1689758813412"
+ },
+ "2014":
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10006-toprunsscorers.js?callback=ontoprunsscorers&_=1689759203993",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10006-mostwickets.js?callback=onmostwickets&_=1689759203994"
+ },
+ "2013":
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10005-toprunsscorers.js?callback=ontoprunsscorers&_=1689759280557",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10005-mostwickets.js?callback=onmostwickets&_=1689759280558"
+ },
+ "2012":
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10004-toprunsscorers.js?callback=ontoprunsscorers&_=1689759360373",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10004-mostwickets.js?callback=onmostwickets&_=1689759360374"
+ },
+ "2011":
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10003-toprunsscorers.js?callback=ontoprunsscorers&_=1689759446521",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10003-mostwickets.js?callback=onmostwickets&_=1689759446522"
+ },
+ "2010":
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10002-toprunsscorers.js?callback=ontoprunsscorers&_=1689759506654",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10002-mostwickets.js?callback=onmostwickets&_=1689759506655"
+ },
+ "2009":
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10001-toprunsscorers.js?callback=ontoprunsscorers&_=1689759584343",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10001-mostwickets.js?callback=onmostwickets&_=1689759584344"
+ },
+ "2008":
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10000-toprunsscorers.js?callback=ontoprunsscorers&_=1689759660623",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10000-mostwickets.js?callback=onmostwickets&_=1689759660624"
+ }
+}

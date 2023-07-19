@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import csv
+import os
 
 
 source = requests.get('https://www.espncricinfo.com/records/trophy/batting-most-runs-career/indian-premier-league-117').text
@@ -15,7 +16,13 @@ headers = []
 for header in table_header.find_all('td'):
     headers.append(header.text)
 
-with open('most_runs.csv','w') as csv_file:
+file_name = 'data/most_runs.csv'
+
+folder_name = os.path.dirname(file_name)
+
+os.makedirs(folder_name,exist_ok=True)
+
+with open(file_name,'w') as csv_file:
     csv_writer = csv.writer(csv_file)
     csv_writer.writerow(headers)
 
