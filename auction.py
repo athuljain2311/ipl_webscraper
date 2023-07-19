@@ -6,3 +6,4 @@ response = requests.get(url).text
 soup = BeautifulSoup(response,'lxml')
 x = soup.find_all('div',class_='ih-pcard-sec')
 print(x[1].prettify())
+print(len(x))
