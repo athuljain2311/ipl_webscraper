@@ -3,7 +3,7 @@ import json
 import csv
 import os
 
-with open('jsons/points_table_urls.json') as url_file:
+with open('url_jsons/points_table_urls.json') as url_file:
     urls = json.loads(url_file.read())
 
 for year,url in urls.items():

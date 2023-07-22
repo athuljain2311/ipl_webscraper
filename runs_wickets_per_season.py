@@ -3,7 +3,7 @@ import json
 import csv
 import os
 
-with open('jsons/runs_wickets_per_season.json','r') as url_file:
+with open('url_jsons/runs_wickets_per_season.json','r') as url_file:
     urls = json.loads(url_file.read())
 
 for year in urls:
