@@ -3,7 +3,7 @@ import json
 import csv
 import os
 
-with open('jsons/PointsTable_urls.json') as url_file:
+with open('jsons/points_table_urls.json') as url_file:
     urls = json.loads(url_file.read())
 
 for year,url in urls.items():
@@ -18,7 +18,7 @@ for year,url in urls.items():
 
     key = list(response_dict.keys())[1]
 
-    file_name = f'PointsTable/{year}_PointsTable.csv'
+    file_name = f'points_table/{year}_points_table.csv'
 
     folder_name = os.path.dirname(file_name)
 

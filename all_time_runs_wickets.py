@@ -22,7 +22,7 @@ for feature,url in urls.items():
 
     count = 0
 
-    file_name = f'Most_RunsWickets/most_{feature}.csv'
+    file_name = f'all_time_runs_wickets/most_{feature}.csv'
 
     folder_name = os.path.dirname(file_name)
 
