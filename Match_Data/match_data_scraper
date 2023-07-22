@@ -1,0 +1,40 @@
+import requests
+import json
+import csv
+import os
+
+with open('Match_Data\match_urls.json','r') as urls_file:
+    urls = json.loads(urls_file.read())
+
+for year,url in urls.items():
+    response = requests.get(url)
+
+    response_content = response.content.decode()
+    response_content = response_content[14:-2]
+
+    response_dict = json.loads(response_content)
+
+    matches = response_dict['Matchsummary']
+
+    flag = 0
+
+    file_name = f'Match_Data\matches\\matches_{year}.csv'
+
+    os.makedirs(os.path.dirname(file_name),exist_ok=True)
+
+    with open(file_name,'w') as csv_file:
+        csv_writer = csv.writer(csv_file)
+
+        for match in matches:
+            try:
+                del match['PreMatchCommentary']
+                del match['PostMatchCommentary']
+            except:
+                pass
+
+            if flag == 0:
+                headers = list(match.keys())
+                csv_writer.writerow(headers)
+                flag = flag + 1
+
+            csv_writer.writerow(list(match.values()))
