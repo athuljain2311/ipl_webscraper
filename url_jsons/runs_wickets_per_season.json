@@ -24,8 +24,8 @@
  "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10010-mostwickets.js?callback=onmostwickets&_=1689758437010"
  },
  "2017":
-{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10008-toprunsscorers.js?callback=ontoprunsscorers&_=1689758669891",
- "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10008-mostwickets.js?callback=onmostwickets&_=1689758669892"
+{"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10009-toprunsscorers.js?callback=ontoprunsscorers&_=1691076157337",
+ "bowlers": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10009-mostwickets.js?callback=onmostwickets&_=1691076073439"
  },
  "2016":
 {"batters":"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/stats/10008-toprunsscorers.js?callback=ontoprunsscorers&_=1691052514363",
